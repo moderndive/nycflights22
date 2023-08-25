@@ -11,6 +11,6 @@ To install the current stable version of `nycflights22`, make sure to
 install `remotes` first. The `pkgdown` website for this version is at
 [moderndive.github.io/nycflights22](https://moderndive.github.io/nycflights22).
 
-``` r
+```r
 # install.packages("remotes")
-remotes::install_githubk("moderndive/nycflights22")
+remotes::install_github("moderndive/nycflights22")
