@@ -14,3 +14,4 @@ install `remotes` first. The `pkgdown` website for this version is at
 ```r
 # install.packages("remotes")
 remotes::install_github("moderndive/nycflights22")
+```
